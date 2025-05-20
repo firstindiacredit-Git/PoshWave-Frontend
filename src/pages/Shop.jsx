@@ -12,7 +12,7 @@ import img8 from '../assets/5-10.png';
 import img9 from '../assets/5-12.png';
 
 const products = [
-  { name: 'Elegant Midi Dress', price: '$129', img: img1, rating: 5 },
+  { name: 'Elegant Midi Dress', price: '$129', img: img1, rating: 5 }, 
   { name: 'Classic White Top', price: '$59', img: img2, rating: 4 },
   { name: 'Chic Black Skirt', price: '$79', img: img3, rating: 4 },
   { name: 'Trendy Denim Jacket', price: '$149', img: img4, rating: 5 },
