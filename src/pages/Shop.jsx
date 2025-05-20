@@ -15,7 +15,7 @@ const products = [
   { name: 'Elegant Midi Dress', price: '$129', img: img1, rating: 5 }, 
   { name: 'Classic White Top', price: '$59', img: img2, rating: 4 },
   { name: 'Chic Black Skirt', price: '$79', img: img3, rating: 4 },
-  { name: 'Trendy Denim Jacket', price: '$149', img: img4, rating: 5 },
+  { name: 'Trendy Denim Jacket', price: '$149', img: img4, rating: 5 }, 
   { name: 'Beige Wide Pants', price: '$89', img: img5, rating: 4 },
   { name: 'Gold Accent Blouse', price: '$99', img: img6, rating: 5 },
   { name: 'Summer Floral Dress', price: '$119', img: img7, rating: 5 },
